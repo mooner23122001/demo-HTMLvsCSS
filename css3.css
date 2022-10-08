@@ -18,6 +18,12 @@ h1 {
     color: #444;
     margin: 0px;
 }
+h3 {
+    font-size: 28px;
+    line-height: 45px;
+    color: #444;
+    margin: 0px;
+}
 h4 {
     font-size: 24px;
     line-height: 38px;
@@ -221,4 +227,68 @@ body {
 }
 .bottom-sell-book p {
     margin-bottom: 40px;
+}
+video {
+    width: 20%;
+}
+.in-made-eBook {
+    display: flex;
+    justify-content: space-around;
+}
+.made-eBook {
+    padding: 85px 18%;
+}
+.content-made-eBook {
+    flex-basis: 49%;
+}
+.text-made-eBook h1 {
+    line-height: 58px;
+}
+.author-book {
+    padding: 40px 25%;
+    text-align: center;
+}
+.author-book img {
+    border-radius: 50%;
+}
+.author-book h6 {
+    color: #fdbd10;
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0px;
+}
+.author-book p {
+    line-height: 26px;
+}
+.icon-contact {
+    font-size: 26px;
+    color: #bbb;
+}
+.icon-contact i {
+    padding-right: 5px;
+}
+.title-answer-question {
+    text-align: center;
+    padding: 0 13%;
+}
+.answer-question {
+    padding: 60px 26%;
+}
+.title-answer-question p {
+    font-size: 20px;
+    line-height: 32px;
+}
+.content-footer {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    padding: 40px 17%;
+}
+.in-footer {
+    flex-basis: 30%;
+}
+.footer p {
+    font-size: 14px;
+    line-height: 22px;
 }
