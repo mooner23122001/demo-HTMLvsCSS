@@ -29,6 +29,7 @@ h2 {
 }
 .ebook-introduce {
   padding: 60px 19%;
+  background-color: #f4f4f4;
 }
 .title-ebook-introduce {
   margin-bottom: 30px;
@@ -37,4 +38,21 @@ h2 {
 .big-text {
   font-size: 16px;
   line-height: 26px;
+}
+.big-text-20 {
+    font-size: 20px;
+    line-height: 32px;
+}
+.newbook {
+    padding-top: 40px;
+}
+.newbook h1 {
+    padding: 10px 25%;
+    line-height: 56px !important;
+}
+.newbook p {
+    padding: 0px 24%;
+}
+.button-get-book {
+    padding: 10px 40px !important;
 }
